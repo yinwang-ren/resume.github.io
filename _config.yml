@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yinwang Ren"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "Yinwang Ren/resume.github.io"
+description              : "A PhD Student in University of Auckland"
+repository               : "yinwang-ren/yinwang-ren.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yinwang Ren"
   avatar           : "images/Me.png"
-  bio              : "Lorem ipsum College"
-  location         : "Auckland, New Zeakand"
+  bio              : # "Lorem ipsum College"
+  location         : "Auckland, New Zealand"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dPtQQFsAAAAJ&hl=zh-CN&oi=ao"
