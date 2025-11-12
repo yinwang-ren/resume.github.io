@@ -73,21 +73,38 @@ redirect_from:
 7. *One Residual Stress Detection Device and Method.* **一种残余应力检测装置及方法**  
    Yong Sun, Jun Yang, Dongxing Zhang, Qiuquan Guo, Shichao Ding, **Yinwang Ren**.
 
-# 💬 Conference Participation
+# 🏃‍ Conference Participation
 - The 8th International Conference on Digital Twin and Intelligent Manufacturing Services, Hangzhou, China, July 2024.  
 - The 18th National Conference on Plastic Engineering & The 10th Global Chinese Plastic Technology Symposium, Wuhan, China, October 2023.  
 - 2023 NSFC-RGC Conference on Frontiers of Industrial Big Data and Intelligent Systems, Hong Kong, China, April 2023.  
 - The 19th International Conference on Metal Forming (MF 2022), Taiyuan, Shanxi, China, September 2022.
 
-# 💻 Honors and Awards
-| Award | Level | Type | Date |
-|--------|--------|--------|--------|
-| **National College Student Innovation and Entrepreneurship Competition – Silver Award (Team Leader)** | National | Innovation | **2025** |
-| **National Graduate Scholarship** | National | Honor | **2023** |
-| **National Graduate Scholarship** | National | Honor | **2022** |
-| **Sichuan Province Outstanding Graduate** | Provincial | Honor | **2023** |
-| **UESTC Outstanding Graduate** | University | Honor | **2023** |
-| **"Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition – Second Prize (Team Leader)** | National | Innovation | **2023** |
-| **Best Poster Presentation** – Guangdong Province Postgraduates Academic Forum | Provincial | Competition | **2022** |
-| **China Robot Competition – Second Prize (Team Leader)** | National | Competition | **2019** |
-| **ROBOCUP Robot World Cup China Competition – Second Prize** | National | Competition | **2019** |
+# 🏆Honors and Awards
+
+**National College Student Innovation and Entrepreneurship Competition – Silver Award (Team Leader)**  
+*Level:* National  *Type:* Innovation  *Date:* **2025**
+
+**National Graduate Scholarship**  
+*Level:* National  *Type:* Honor  *Date:* **2023**
+
+**National Graduate Scholarship**  
+*Level:* National  *Type:* Honor  *Date:* **2022**
+
+**Sichuan Province Outstanding Graduate**  
+*Level:* Provincial  *Type:* Honor  *Date:* **2023**
+
+**UESTC Outstanding Graduate**  
+*Level:* University  *Type:* Honor  *Date:* **2023**
+
+**"Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition – Second Prize (Team Leader)**  
+*Level:* National  *Type:* Innovation  *Date:* **2023**
+
+**Best Poster Presentation – Guangdong Province Postgraduates Academic Forum**  
+*Level:* Provincial  *Type:* Academic  *Date:* **2022**
+
+**China Robot Competition – Second Prize (Team Leader)**  
+*Level:* National  *Type:* Competition  *Date:* **2019**
+
+**ROBOCUP Robot World Cup China Competition – Second Prize**  
+*Level:* National  *Type:* Competition  *Date:* **2019**
+
