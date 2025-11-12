@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about me'></span>
+<span class='anchor' id='about-me'></span>
 # About Me
  <p>Hello, thank you for coming over. I am a PhD Student in the <a href="https://lisms.auckland.ac.nz">Laboratory for Industry 4.0 Smart Manufacturing Systems</a> at the Faculty of Engineering, University of Auckland. I am supervised by <a href="https://profiles.auckland.ac.nz/x-xu">Professor Xun Xu</a>. My research interests include <strong>smart manufacturing systems</strong>, <strong>autonomous manufacturing</strong>, and <strong>industrial AI</strong>. My current research focuses on agentic manufacturing, aiming to develop intelligent, autonomous manufacturing systems capable of self-organising manufacturing resources. </p>
   <p>Before joining the University of Auckland, I received my Master's degree from the <strong>University of Electronic Science and Technology of China (UESTC)</strong>, where I worked in the <a href="http://www.ultraxlab.com">Shensi Lab</a>. I obtained my Bachelor's degree from <strong>Zhengzhou University</strong>.</p>
@@ -75,7 +75,7 @@ redirect_from:
 7. *One Residual Stress Detection Device and Method.* **一种残余应力检测装置及方法**  
    Yong Sun, Jun Yang, Dongxing Zhang, Qiuquan Guo, Shichao Ding, **Yinwang Ren**.
 
-<span class='anchor' id='conference participation'></span>
+<span class='anchor' id='conference-participation'></span>
 
 # 🏃‍ Conference Participation
 - The 8th International Conference on Digital Twin and Intelligent Manufacturing Services, Hangzhou, China, July 2024.  
@@ -83,7 +83,7 @@ redirect_from:
 - 2023 NSFC-RGC Conference on Frontiers of Industrial Big Data and Intelligent Systems, Hong Kong, China, April 2023.  
 - The 19th International Conference on Metal Forming (MF 2022), Taiyuan, Shanxi, China, September 2022.
   
-<span class='anchor' id='honors and awards'></span>
+<span class='anchor' id='honors-and-awards'></span>
 # 🏆Honors and Awards
 
 **National College Student Innovation and Entrepreneurship Competition – Silver Award (Team Leader)**  
