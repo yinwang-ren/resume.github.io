@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yinwang Ren (任银旺)"
+title                    : "Yinwang Ren"
 description              : "A PhD Student at the University of Auckland"
 repository               : "yinwang-ren/yinwang-ren.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yinwang Ren (任银旺)"
+  name             : "Yinwang Ren"
   avatar           : "images/Me.jpg"
   bio              : # "Lorem ipsum College"
   location         : "Auckland, New Zealand"
