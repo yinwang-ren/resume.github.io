@@ -42,7 +42,7 @@ redirect_from:
 1. *Flexible 3D Profile Roll Forming Technology.* In *Flexible Metal Forming Technologies*, Chapter 5, 2022. [DOI](https://doi.org/10.1007/978-981-19-1348-8)
 
 <span class='anchor' id='patents'></span>
-# 📖 PatentS
+# 📖 Patents
 #### 🏅 Granted Patents / 已授权专利
 1. *A Scan Measurement Device for Online Detection.* **一种可在线检测的扫描测量仪**  
    Yong Sun, **Yinwang Ren**, Jingsheng He, Qiuquan Guo, Dongxing Zhang, Jun Yang.  
