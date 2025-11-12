@@ -31,12 +31,12 @@ redirect_from:
 2. **Yinwang Ren**, et al. (2024). A Novel Six-Dimensional Digital Twin Model for Data Management and its Application in Roll Forming. _Advanced Engineering Informatics_ <strong>(CAS Q1 Top Journal)</strong>. [DOI](https://doi.org/10.1016/j.aei.2024.102555)  
 3. **Yinwang Ren**, et al. (2024). Intelligent Roll Forming Equipment (System) and Analysis of Its Application Cases. _Transactions of Nanjing University of Aeronautics and Astronautics_. [DOI](https://doi.org/10.16356/j.1005-2615.2024.01.005)  
 4. **Yinwang Ren**, et al. (2022). Digitization of Roll Forming and Its Application. _The 19th International Conference on Metal Forming (MF 2022)_. [DOI](https://doi.org/10.1088/1757-899X/1270/1/012010)  
----
+
 ### 🧩 Papers (Co-author)
 1. Jingsheng He, Shiyi Cu, Hui Xia, Yong Sun, Wenchao Xiao, **Yinwang Ren**. (2025). High Accuracy Roll Forming Springback Prediction Model of SVR Based on SA-PSO Optimization. _Journal of Intelligent Manufacturing_. [DOI](https://doi.org/10.1007/s10845-023-02222-0)  
 2. Jie Dong, **Yinwang Ren**, et al. (2024). A novel real data-driven springback prediction method for roll forming based on digital twin. _International Journal of Computer Integrated Manufacturing_. [DOI](https://doi.org/10.1080/0951192X.2025.2478012)  
 3. J. He, **Y. Ren**, et al. (2024). Data-Driven Approach for Minimizing Springback in Roll Forming: An Adaptive Process Parameter Control Strategy. _43rd Conference of the International Deep Drawing Research Group (IDDRG 2024)_. [DOI](https://doi.org/10.1088/1757-899X/1307/1/012033)  
----
+
 ### 📘 Book / Book Chapter
 1. *Flexible 3D Profile Roll Forming Technology.* In *Flexible Metal Forming Technologies*, Chapter 5, 2022. [DOI](https://doi.org/10.1007/978-981-19-1348-8)
 
