@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yinwang Ren"
-description              : "A PhD Student in University of Auckland"
+title                    : "Yinwang Ren (任银旺)"
+description              : "A PhD Student at the University of Auckland"
 repository               : "yinwang-ren/yinwang-ren.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,7 +26,7 @@ author:
   bio              : # "Lorem ipsum College"
   location         : "Auckland, New Zealand"
   employer         :
-  pubmed           : 
+  orcid            : "https://orcid.org/0009-0003-0458-7750"
   googlescholar    : "https://scholar.google.com/citations?user=dPtQQFsAAAAJ&hl=zh-CN&oi=ao"
   email            : "ar184@aucklanduni.ac.com"
   researchgate     : "https://www.researchgate.net/profile/Yinwang-Ren?ev=hdr_xprf"
